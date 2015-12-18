@@ -6,6 +6,9 @@
 
     Backup directories to Dropbox
 
+    Open-sourced with thanks to
+    Doubledot Media Ltd (http://www.doubledotmedia.com)
+
     :author: Jonathan Love
     :copyright: (c) 2015 by Doubledot Media Ltd
     :license: See README.md and LICENSE for more details
